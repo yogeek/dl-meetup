@@ -18,4 +18,5 @@ Go into the directory containing your notebooks and launch :
 ```
 
 A link is displayed in the console : click it !
+
 Enjoy :-)
